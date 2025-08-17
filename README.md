@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Sports Performance Analysis App**  
 - 🌱 I’m currently learning **Unity (Junior Pathways)**  
 - 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**  
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana/ArpanMoharana">github.com/ArpanMoharana/ArpanMoharana</a>  
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana">github.com/ArpanMoharana/ArpanMoharana</a>  
 - 💬 Ask me about **Data analysis, Machine Learning, Database Management, Web Development, XR Development, Unity, Sports Performance Analytics**  
 - 📫 How to reach me **arpkumo4@gmail.com**
 
