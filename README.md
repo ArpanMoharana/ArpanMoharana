@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/arpan-kumar-moharana-0b460134b" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/arpan-kumar-moharana" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Arpan Kumar Moharana" height="30" width="40" />
   </a>
 </p>
