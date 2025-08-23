@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpanmoharana" alt="arpanmoharana" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arpanmoharana&theme=dracula&cache_seconds=86400" alt="arpanmoharana" />
   </a>
 </p>
 
@@ -22,8 +22,12 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Sports Performance Analysis App** - 🌱 I’m currently learning **Unity (Junior Pathways)** - 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects** - 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana">github.com/ArpanMoharana</a>  
-- 💬 Ask me about **Data analysis, Machine Learning, Database Management, Web Development, XR Development, Unity, Sports Performance Analytics** - 📫 How to reach me **arpkumo4@gmail.com**
+- 🔭 I’m currently working on **an exciting Unity project**
+- 🌱 I’m currently learning **Unity (Junior Pathways)**
+- 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana">github.com/ArpanMoharana</a>
+- 💬 Ask me about **Data analysis, Machine Learning, Database Management, Web Development, XR Development, Unity, Sports Performance Analytics**
+- 📫 How to reach me **arpkumo4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
