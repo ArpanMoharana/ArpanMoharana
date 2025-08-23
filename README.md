@@ -16,7 +16,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **an exciting Unity project**
+- 🔭 I’m currently working on **an exciting Unity project as an XR DEVELOPER**
 - 🌱 I’m currently learning **Unity (Junior Pathways)**
 - 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana">github.com/ArpanMoharana</a>
