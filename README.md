@@ -2,12 +2,6 @@
 <h3 align="center">Final-year B.Tech student in Computer Science (AI & Data Science), passionate about data analysis, machine learning, database management, web development, and XR development.</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpanmoharana&theme=dracula&cache_seconds=86400" alt="arpanmoharana" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpanmoharana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
