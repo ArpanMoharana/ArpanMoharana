@@ -1,4 +1,23 @@
 <h1 align="center">Hi 👋, I'm Arpan Kumar Moharana</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arpan+Kumar+Moharana;Final-year+B.Tech+Student;Passionate+about+AI+%26+Data+Science;XR+Development+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ArpanMoharana?tab=stars">
+    <img src="https://img.shields.io/github/stars/ArpanMoharana?logo=github&style=for-the-badge&color=orange" alt="Stars">
+  </a>
+  <a href="https://github.com/ArpanMoharana?tab=followers">
+    <img src="https://img.shields.io/github/followers/ArpanMoharana?logo=github&style=for-the-badge&color=blue" alt="Followers">
+  </a>
+  <a href="https://github.com/ArpanMoharana">
+    <img src="https://komarev.com/ghpvc/?username=arpanmoharana&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+  </a>
+</p>
+
 <h3 align="center">Final-year B.Tech student in Computer Science (AI & Data Science), passionate about data analysis, machine learning, database management, web development, and XR development.</h3>
 
 <p align="center">
@@ -11,14 +30,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanmoharana&theme=dracula" alt="arpanmoharana" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ArpanMoharana/ArpanMoharana/main/dist/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-- 🔭 I’m currently working on **an exciting Unity project as an XR DEVELOPER**
+- 🔭 I’m currently working on **an exciting Unity project**
 - 🌱 I’m currently learning **Unity (Junior Pathways)**
-- 👯 I’m looking to collaborate on **AI/ML,Web Development, and database integration projects**
+- 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana">github.com/ArpanMoharana</a>
 - 💬 Ask me about **Data analysis, Machine Learning, Database Management, Web Development, XR Development, Unity, Sports Performance Analytics**
 - 📫 How to reach me **arpkumo4@gmail.com**
