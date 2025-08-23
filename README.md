@@ -29,10 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArpanMoharana/ArpanMoharana/main/dist/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 - 🔭 I’m currently working on **an exciting Unity project**
 - 🌱 I’m currently learning **Unity (Junior Pathways)**
 - 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**
