@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **an exciting Unity project as an XR DEVELOPER**
 - 🌱 I’m currently learning **Unity (Junior Pathways)**
-- 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**
+- 👯 I’m looking to collaborate on **AI/ML,Web Development, and database integration projects**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana">github.com/ArpanMoharana</a>
 - 💬 Ask me about **Data analysis, Machine Learning, Database Management, Web Development, XR Development, Unity, Sports Performance Analytics**
 - 📫 How to reach me **arpkumo4@gmail.com**
