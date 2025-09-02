@@ -9,9 +9,9 @@
 <h2>🚀 Featured Projects</h2>
 
 <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 20px; max-width: 700px; background: linear-gradient(135deg, #1f1f1f, #2e2e2e); box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-  <h3>⚡ Sports Performance Analysis</h3>
+  <h3>⚡ Sports Performance Analysis Dashboard</h3>
   <p><em>JavaFX + Apache Cassandra-based dashboard for player stats and performance prediction.</em></p>
-  <a href="https://github.com/ArpanMoharana/Sports-Performance-Analysis">
+  <a href="https://github.com/ArpanMoharana/Sports-Performance-Analysis-Dashboard">
     <img src="https://img.shields.io/badge/View%20Repository-FF9800?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -44,7 +44,15 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
-  <!-- keep all your icons here as is -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </p>
