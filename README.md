@@ -43,12 +43,22 @@ A motivated B.Tech student specializing in AI and Data Science with proven skill
   </div>
 
   <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 20px; max-width: 380px; background: linear-gradient(135deg, #1f1f1f, #2e2e2e); box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+    <h3>📱 Clicky-Crates-Unity-Game</h3>
+    <p><em>**Clicky Crates** is a fast-paced, data-driven arcade clicker built in Unity. Originally inspired by the **Unity Junior Programmer Pathway (Prototype 5)**, it has been expanded with persistent high scores, data-driven target definitions, and detailed player session logs — making it easy to play, fun to master, and simple to extend.</em></p>
+    <a href="https://github.com/ArpanMoharana/Clicky-Crates-Unity-Game.git">
+      <img src="https://img.shields.io/badge/View%20Repository-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div>
+
+  <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 20px; max-width: 380px; background: linear-gradient(135deg, #1f1f1f, #2e2e2e); box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
     <h3>📱 JitsiMeet Video Conference App</h3>
     <p><em>An Android video conferencing app integrating the Jitsi Meet API for high-quality calls and Firebase for secure user authentication.</em></p>
     <a href="https://github.com/ArpanMoharana/JitsiMeet-Video-Conference-with-Firebase-Auth">
       <img src="https://img.shields.io/badge/View%20Repository-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
+
+  
 
 </div>
 
