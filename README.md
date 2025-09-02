@@ -29,7 +29,8 @@
 </p>
 
 <h3 align="center">Final-year B.Tech student in Computer Science (AI & Data Science), passionate about data analysis, machine learning, database management, web development, and XR development.</h3>
-
+<br>
+<br>
 - 🔭 I’m currently working on **an exciting Unity project**
 - 🌱 I’m currently learning **Unity (Junior Pathways)**
 - 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**
