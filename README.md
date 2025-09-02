@@ -40,6 +40,9 @@
 - 👯 I’m looking to collaborate on **JavaFX, machine learning, and database integration projects**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ArpanMoharana">github.com/ArpanMoharana</a>
 - 💬 Ask me about **Data analysis, Machine Learning, Database Management, Web Development, XR Development, Unity, Sports Performance Analytics**
+<br>
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #36BCF7, #FF9800);">
+<br>
 - 📫 How to reach me **arpkumo4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
