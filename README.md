@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/View%20Repository-FF9800?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+<br>
+<br>
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #36BCF7, #FF9800);">
+<br>
 
 <p align="center">
   <a href="https://github.com/ArpanMoharana?tab=stars">
