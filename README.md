@@ -6,6 +6,15 @@
   </a>
 </p>
 
+<h2>🚀 Featured Projects</h2>
+
+<h3>⚡ Sports Performance Analysis</h3>
+<p>
+  <em>JavaFX + Apache Cassandra-based dashboard for player stats and performance prediction.</em><br>
+  <a href="https://github.com/ArpanMoharana/Sports-Performance-Analysis">🔗 View Repository</a>
+</p>
+
+
 <p align="center">
   <a href="https://github.com/ArpanMoharana?tab=stars">
     <img src="https://img.shields.io/github/stars/ArpanMoharana?logo=github&style=for-the-badge&color=orange" alt="Stars">
