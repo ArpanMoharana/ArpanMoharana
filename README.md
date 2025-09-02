@@ -26,7 +26,7 @@
 
 ### 📖 About Me
 
-[cite_start]A motivated B.Tech student specializing in AI and Data Science with proven skills in designing predictive models, developing immersive XR/VR experiences, and building responsive full-stack web applications[cite: 1]. [cite_start]My goal is to contribute to impactful, data-driven, and AI-powered solutions by leveraging a passion for enhancing system performance and creative problem-solving[cite: 1]. [cite_start]I am currently an **XR Developer Intern at FireBirdVR** [cite: 1][cite_start], where I am actively training in Unity and C# to build solutions for diverse industries[cite: 1].
+A motivated B.Tech student specializing in AI and Data Science with proven skills in designing predictive models, developing immersive XR/VR experiences, and building responsive full-stack web applications. My goal is to contribute to impactful, data-driven, and AI-powered solutions by leveraging a passion for enhancing system performance and creative problem-solving. I am currently an **XR Developer Intern at FireBirdVR** , where I am actively training in Unity and C# to build solutions for diverse industries.
 
 ---
 
@@ -36,7 +36,7 @@
 
   <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 20px; max-width: 380px; background: linear-gradient(135deg, #1f1f1f, #2e2e2e); box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
     <h3>⚡ Sports Performance Analysis Dashboard</h3>
-    [cite_start]<p><em>A JavaFX desktop application enabling athletes to visualize trends and track performance metrics using Apache Cassandra within a Docker environment[cite: 1].</em></p>
+    <p><em>A JavaFX desktop application enabling athletes to visualize trends and track performance metrics using Apache Cassandra within a Docker environment.</em></p>
     <a href="https://github.com/ArpanMoharana/Sports-Performance-Analysis-Dashboard">
       <img src="https://img.shields.io/badge/View%20Repository-FF9800?style=for-the-badge&logo=github&logoColor=white" />
     </a>
@@ -44,7 +44,7 @@
 
   <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 20px; max-width: 380px; background: linear-gradient(135deg, #1f1f1f, #2e2e2e); box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
     <h3>📱 JitsiMeet Video Conference App</h3>
-    [cite_start]<p><em>An Android video conferencing app integrating the Jitsi Meet API for high-quality calls and Firebase for secure user authentication[cite: 1].</em></p>
+    <p><em>An Android video conferencing app integrating the Jitsi Meet API for high-quality calls and Firebase for secure user authentication.</em></p>
     <a href="https://github.com/ArpanMoharana/JitsiMeet-Video-Conference-with-Firebase-Auth">
       <img src="https://img.shields.io/badge/View%20Repository-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
     </a>
@@ -58,11 +58,11 @@
 
 ### 💡 Core Competencies
 
-- [cite_start]🔭 **Currently:** Sharpening my skills in **Unity and C#** as an XR Developer Intern at FireBirdVR[cite: 1].
-- [cite_start]🌱 **Learning:** Advanced concepts in **Generative AI** and **Deep Learning**[cite: 1].
-- [cite_start]👯 **Looking to collaborate on:** Open-source projects involving **Machine Learning, Data Analysis, or XR Development**[cite: 1].
-- [cite_start]💬 **Ask me about:** Python, Java, SQL, Machine Learning, Unity, and XR Development[cite: 1].
-- [cite_start]📫 **How to reach me:** **arpkumo4@gmail.com** [cite: 2]
+- 🔭 **Currently:** Sharpening my skills in **Unity and C#** as an XR Developer Intern at FireBirdVR.
+- 🌱 **Learning:** Advanced concepts in **Generative AI** and **Deep Learning**.
+- 🤝 **Looking to collaborate on:** Open-source projects involving **Machine Learning, Data Analysis, or XR Development**.
+- 💬 **Ask me about:** Python, Java, SQL, Machine Learning, Unity, and XR Development.
+- 📫 **How to reach me:** **arpkumo4@gmail.com** 
 
 ---
 
