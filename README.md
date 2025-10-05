@@ -94,12 +94,3 @@ A motivated B.Tech student specializing in AI and Data Science with proven skill
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arpan-kumar-moharana" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Arpan Kumar Moharana" height="30" width="40" />
-  </a>
-</p>
