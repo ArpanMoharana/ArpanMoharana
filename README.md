@@ -71,7 +71,7 @@ A motivated B.Tech student specializing in AI and Data Science with proven skill
 - 🔭 **Currently:** Sharpening my skills as an XR and AI Developer, focusing on immersive interaction systems and intelligent model-driven workflows at FireBirdVR.
 - 🌱 **Learning:** Advanced concepts in **Generative AI** and **Deep Learning**.
 - 🤝 **Looking to collaborate on:** Open-source projects involving **Machine Learning, Data Analysis, Artificial Intelligence or XR Development**.
-- 💬 **Ask me about:** Python, Java, SQL, Machine Learning, Unity, and XR Development.
+- 💬 **Ask me about:** Python, SQL, Machine Learning, Unity, and XR Development and others.
 - 📫 **How to reach me:** **arpkumo4@gmail.com** 
 
 ---
