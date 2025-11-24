@@ -26,7 +26,7 @@
 
 ### 📖 About Me
 
-A motivated B.Tech student specializing in AI and Data Science with proven skills in designing predictive models, developing immersive XR/VR experiences, and building responsive full-stack web applications. My goal is to contribute to impactful, data-driven, and AI-powered solutions by leveraging a passion for enhancing system performance and creative problem-solving. I am currently an **XR Developer Intern at FireBirdVR** , where I am actively training in Unity and C# to build solutions for diverse industries.
+A motivated B.Tech student specializing in AI and Data Science with proven skills in designing predictive models, developing immersive XR/VR experiences, and building responsive full-stack web applications. My goal is to contribute to impactful, data-driven, and AI-powered solutions by leveraging a passion for enhancing system performance and creative problem-solving. I am currently an **XR and AI Developer Intern at FireBirdVR** , where I am actively training in Unity and C# to build solutions for diverse industries.
 
 ---
 
@@ -35,17 +35,17 @@ A motivated B.Tech student specializing in AI and Data Science with proven skill
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 20px; max-width: 380px; background: linear-gradient(135deg, #1f1f1f, #2e2e2e); box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-    <h3>⚡ Sports Performance Analysis Dashboard</h3>
-    <p><em>A JavaFX desktop application enabling athletes to visualize trends and track performance metrics using Apache Cassandra within a Docker environment.</em></p>
-    <a href="https://github.com/ArpanMoharana/Sports-Performance-Analysis-Dashboard">
+    <h3>⚡Webpage-RAG-System-with-Gemini-and-SentenceTransformer</h3>
+    <p><em>Retrieval-Augmented Generation demo: Webpage → Sentence-Transformer embeddings → ChromaDB → Gemini 2.5 Flash (LangChain). Local embeddings, reproducible notebook and demo code.</em></p>
+    <a href="https://github.com/ArpanMoharana/Webpage-RAG-System-with-Gemini-and-SentenceTransformer">
       <img src="https://img.shields.io/badge/View%20Repository-FF9800?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
 
   <div align="center" style="border: 2px solid #444; border-radius: 12px; padding: 20px; max-width: 380px; background: linear-gradient(135deg, #1f1f1f, #2e2e2e); box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-    <h3>📱 Clicky-Crates-Unity-Game</h3>
-    <p><em>Clicky Crates is a fast-paced Unity arcade clicker where you smash falling crates, avoid the bad ones, and chase the high score — built with a data-driven design and persistent player logs.</em></p>
-    <a href="https://github.com/ArpanMoharana/Clicky-Crates-Unity-Game.git">
+    <h3>🏠 House-Price-Prediction-Model</h3>
+    <p><em>A machine learning model to predict median house values in California housing dataset.</em></p>
+    <a href="https://github.com/ArpanMoharana/House-Price-Prediction-Model">
       <img src="https://img.shields.io/badge/View%20Repository-36BCF9?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </div>
@@ -68,9 +68,9 @@ A motivated B.Tech student specializing in AI and Data Science with proven skill
 
 ### 💡 Core Competencies
 
-- 🔭 **Currently:** Sharpening my skills in **Unity and C#** as an XR Developer Intern at FireBirdVR.
+- 🔭 **Currently:** Sharpening my skills as an XR and AI Developer, focusing on immersive interaction systems and intelligent model-driven workflows at FireBirdVR.
 - 🌱 **Learning:** Advanced concepts in **Generative AI** and **Deep Learning**.
-- 🤝 **Looking to collaborate on:** Open-source projects involving **Machine Learning, Data Analysis, or XR Development**.
+- 🤝 **Looking to collaborate on:** Open-source projects involving **Machine Learning, Data Analysis, Artificial Intelligence or XR Development**.
 - 💬 **Ask me about:** Python, Java, SQL, Machine Learning, Unity, and XR Development.
 - 📫 **How to reach me:** **arpkumo4@gmail.com** 
 
