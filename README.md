@@ -65,6 +65,6 @@
 
 ### ⚡ Additional Experience
 
-- 🎮 Worked on XR/VR projects using Unity (C#), focusing on gameplay systems, UI, and data persistence  
-- 🧠 Strong foundation in building data-driven applications and ML-based solutions  
-- 🚀 Continuously exploring ways to combine **AI + real-world applications**
+- Worked on XR/VR projects using Unity (C#), focusing on gameplay systems, UI, and data persistence  
+- Strong foundation in building data-driven applications and ML-based solutions  
+- Continuously exploring ways to combine **AI + real-world applications**
