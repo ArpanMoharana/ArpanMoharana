@@ -48,7 +48,6 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
@@ -65,6 +64,6 @@
 
 ### ⚡ Additional Experience
 
-- Worked on XR/VR projects using Unity (C#), focusing on gameplay systems, UI, and data persistence  
+- Worked on XR/VR projects using Unity, focusing on gameplay systems, UI, and data persistence  
 - Strong foundation in building data-driven applications and ML-based solutions  
 - Continuously exploring ways to combine **AI + real-world applications**
