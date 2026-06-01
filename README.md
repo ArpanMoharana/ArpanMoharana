@@ -24,15 +24,20 @@
 
 ### 📖 About Me
 
-- I am a final-year B.Tech student in **Artificial Intelligence & Data Science**, focused on building **data-driven and AI-powered solutions**.  
+* Passionate about building **AI-powered, data-driven, and intelligent software solutions** that solve real-world problems.
 
-- My core interests lie in **Machine Learning, Data Analysis, Generative AI, and Predictive Modeling**, where I enjoy transforming raw data into meaningful insights and intelligent systems.  
+* My interests include **Machine Learning, Generative AI, Natural Language Processing (NLP), Data Analysis, and Retrieval-Augmented Generation (RAG)**.
 
-- I have hands-on experience working with **Python, SQL, TensorFlow, and real-world datasets**, along with building projects that combine data processing, modeling, and visualization.  
+* I enjoy developing applications using **Python, PyTorch, TensorFlow, LangChain, Hugging Face, SQL, and modern AI technologies**, with a focus on practical implementation and continuous learning.
 
-- During my internship, I also explored **XR/VR development using Unity and C#**, gaining exposure to interactive systems and immersive applications — adding a creative dimension to my technical profile.  
+* My work includes projects in **deep learning, medical image analysis, document-based question answering, and software development**, combining research with real-world problem-solving.
+
+* Through experience in **XR development, software engineering, and AI development**, I have worked with technologies such as **Unity, C#, Java, MySQL, and modern development workflows**.
+
+* Currently focused on growing as an **AI Engineer and Generative AI Developer**, while exploring emerging technologies and building impactful solutions.
 
 ---
+
 
 ### 💡 Core Competencies
 
