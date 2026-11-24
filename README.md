@@ -33,7 +33,7 @@ I also spent time in XR development at FireBirdVR, which gave me hands-on experi
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **🧠 [Brain Tumor Segmentation: Hybrid U-Net + GNN + SAM](https://github.com/ArpanMoharana/Hybrid-CNN-GNN-with-SAM-for-Brain-Tumor-Segmentation)**
 - Hybrid deep learning pipeline combining U-Net, Graph Neural Networks, and SAM for brain tumor segmentation on the BraTS MRI dataset (4 imaging modalities).
